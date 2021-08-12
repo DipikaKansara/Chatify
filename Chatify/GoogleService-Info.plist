@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>966773875712-nrlkjj9n3pqq5r7us8esm09tfdqiig43.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.966773875712-nrlkjj9n3pqq5r7us8esm09tfdqiig43</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1iGx5W7Ga6qUDdu7aNX2QR9PI-AtrKEQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>966773875712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dipika.Chatify</string>
+	<key>PROJECT_ID</key>
+	<string>chatify-b588d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatify-b588d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:966773875712:ios:854319c7b174a7a562a4e5</string>
+</dict>
+</plist>
