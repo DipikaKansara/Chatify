@@ -1,5 +1,5 @@
 
-![Begin Banner](Documntation/Banner.png)
+![Begin Banner](Docmentation/Banner.png)
 
 # Chatify
 
@@ -11,7 +11,7 @@ Chatify is an internet based messaging app similar to WhatsApp, I used a service
 
 ## Screenshot
 
-<img src= Documentation/Chatify.gif  height="375" width="175">
+<img src= Docmentation/Chatify.gif  height="375" width="175">
 
 
 
